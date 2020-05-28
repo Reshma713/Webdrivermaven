@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test name="Test3(failed)">
+    <classes>
+      <class name="com.techexpozed.testcases.Passwordmismatch">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="passwordmismatch" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.techexpozed.testcases.Passwordmismatch -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+</suite> <!-- Failed suite [Suite] -->

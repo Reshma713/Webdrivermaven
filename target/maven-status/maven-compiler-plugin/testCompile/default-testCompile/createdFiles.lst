@@ -1,0 +1,10 @@
+com\rough\testproperties.class
+com\techexpozed\testcases\Registration.class
+com\techexpozed\testcases\Validcases.class
+com\rough\timestamp.class
+com\w2a\base\baseclass.class
+com\utilities\ExtentManager.class
+com\techexpozed\testcases\Passwordmismatch.class
+com\utilities\TestUtil.class
+com\listener\CustomListeners.class
+com\utilities\ExcelReader.class

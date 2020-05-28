@@ -1,0 +1,5 @@
+12:19:56,729 DEBUG devpinoyLogger:64 - config file loaded
+12:19:56,731 DEBUG devpinoyLogger:77 - OR file loaded
+12:20:00,775 DEBUG devpinoyLogger:92 - Chrome launched!!
+12:20:01,784 DEBUG devpinoyLogger:103 - Navigated to https://techexpozed.co.nz/login/
+12:21:33,914 DEBUG devpinoyLogger:227 - Exceution completed
